@@ -21,7 +21,6 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
-polonium/
 
 # Visual Studio 2015 cache/options directory
 .vs/
@@ -307,4 +306,4 @@ Resources/MapImages
 
 # Direnv stuff
 .direnv/
-compile.sh
+
